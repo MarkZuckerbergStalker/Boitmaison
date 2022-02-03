@@ -1,5 +1,0 @@
-discord
-discord.py
-PyNaCl
-ffmpeg
-youtube_dl
