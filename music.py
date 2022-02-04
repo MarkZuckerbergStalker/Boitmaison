@@ -9,13 +9,13 @@ from googleapiclient.discovery import build
 from discord.ext.commands import command
 
 # import pymongo
-# NOTE: Import pymongo if you are using the database function commands
-# NOTE: Also add `pymongo` and `dnspython` inside the requirements.txt file if you are using pymongo
+# NOTE: importer pymongo si utilisation ultérieure de la fonction database commands
+# NOTE: et ajouter `pymongo` et `dnspython` à l'intérieur durequirements.txt en cas d'utilisation de pymongo
 
-# TODO: CREATE PLAYLIST SUPPORT FOR MUSIC
+# TODO: créer le support de la fonction d'écouter une playlist
 
 
-# NOTE: Without database, the music bot will not save your volume
+# NOTE: Sans base de donnée, le bot musique ne conservera pas le volume renseigné
 
 
 # flat-playlist:True?
