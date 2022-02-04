@@ -3,3 +3,5 @@ git+https://github.com/ytdl-org/youtube-dl
 PyNaCl
 google-api-python-client
 python-dotenv
+dnspython
+pymongo
